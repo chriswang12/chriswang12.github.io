@@ -7,4 +7,4 @@ tags: [sample]
 image: w12-1.jpg
 ---
 
-记录有意识的一生.
+浅醉一生
