@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Travel Shots',  url: 'facts'}
+- {name: 'Travel Shots',  url: 'travel'}
 - {name: 'Film & Books', url: 'resources'}
 - {name: 'Living Skills',       url: 'sample-posts'}
 - {name: 'Funny Record',      url: 'documentation'}

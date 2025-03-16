@@ -2,7 +2,7 @@
 layout: post
 title: "旅程的开始"
 author: "王十二"
-categories: facts
+categories: travel
 tags: [sample]
 image: w12-1.jpg
 ---
